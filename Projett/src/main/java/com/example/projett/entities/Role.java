@@ -1,6 +1,8 @@
 package com.example.projett.entities;
 
 public enum Role {
-    ADMIN, BENIFICAIRE, CLIENT, JOBSEEKER, SHAREHOLDER,DONOR
-
+    ADMIN,
+    STARTUP_REPRESENTATIVE,
+    DONATOR,
+    INVESTOR
 }
